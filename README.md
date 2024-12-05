@@ -1,0 +1,1 @@
+A polished and responsive search page designed for blogs, featuring dynamic filtering, a modern UI/UX, and accessibility enhancements. This project includes real-time search functionality, mobile-friendly design, and a professional look, making it an ideal solution for discovering content effortlessly.
